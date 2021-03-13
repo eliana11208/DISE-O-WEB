@@ -1,6 +1,9 @@
 Aplicación Web realizado para identificar el estado del clima en tiempo real por medio de api de https://openweathermap.org/, además de tener tres galerías de imágenes que permiten ver los lugares turísticos de Bogotá y Paris.
 
 Web desarrollada por medio de archivo HTML5, CSS3, JavaScript, además de utilizar estilos con SASS, creado por medio de Visual Studio Code,app responsive.
+
+LINK HOSTING: http://web1weather.000webhostapp.com/
+LINK GIT: 
 ----------------------------------------
 
 Imagenes tomadas de:
