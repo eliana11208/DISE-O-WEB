@@ -3,7 +3,9 @@ Aplicación Web realizado para identificar el estado del clima en tiempo real po
 Web desarrollada por medio de archivo HTML5, CSS3, JavaScript, además de utilizar estilos con SASS, creado por medio de Visual Studio Code,app responsive.
 
 LINK HOSTING: http://web1weather.000webhostapp.com/
-LINK GIT: 
+LINK GIT: https://eliana11208.github.io/diseno-web2/
+
+
 ----------------------------------------
 
 Imagenes tomadas de:
